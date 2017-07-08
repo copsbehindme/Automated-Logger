@@ -1,0 +1,12 @@
+Readme :
+
+1) The automated logger helps you add the current date and time automatically to a text file that you usually open to log some events.
+
+2) All you need to do is : 
+	a) make sure you extract all the files on Desktop 
+	b) Open the terminal , give permissions to the "log.command" file by using following commands on the terminal
+		cd Desktop
+		chmod 777 log.command
+
+	c) double click on the log.command file
+	d) It will show the date and time at the end of LogFile.txt
