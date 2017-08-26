@@ -1,5 +1,8 @@
 Readme :
 
+On Mac / Linux
+-------
+
 1) The automated logger helps you add the current date and time automatically to a text file that you usually open to log some events.
 
 2) All you need to do is : 
@@ -10,3 +13,9 @@ Readme :
 
 	c) double click on the log.command file
 	d) It will show the date and time at the end of LogFile.txt
+
+
+On Windows
+-----------
+
+1) double click log.bat
